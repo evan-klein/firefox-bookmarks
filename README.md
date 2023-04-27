@@ -1,6 +1,6 @@
 # Firefox Bookmarks
 
-TODO
+A simple PHP class for creating custom Firefox bookmark JSON files
 
 ## Requirements
 
