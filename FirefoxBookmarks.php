@@ -1,6 +1,7 @@
 <?php
 
 require_once('ek.php');
+use evan_klein\ek as ek;
 
 class FirefoxBookmarks {
 	private $_bookmarks = [
