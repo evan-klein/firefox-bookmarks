@@ -1,5 +1,7 @@
 <?php
 
+namespace evan_klein\firefox_bookmarks;
+
 require_once('ek.php');
 use evan_klein\ek as ek;
 
