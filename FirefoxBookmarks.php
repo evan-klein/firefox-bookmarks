@@ -38,7 +38,7 @@ class FirefoxBookmarks {
 		$children=[]
 	){
 		$elem = [
-			'guid'=>$guid ?? \ek\randStr(12),
+			'guid'=>$guid ?? ek\randStr(12),
 			'index'=>$index,
 			'dateAdded'=>$this->_date(),
 			'lastModified'=>$this->_date(),
